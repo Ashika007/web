@@ -7,6 +7,7 @@
 //git checkout -b feature1
 //git checkout existing branchname-> existing tyo brancha ma jancha, arko branch ma jana
 //git branch
+//git branch -a
 // git fetch origin-> server ma banako branch herna
 //git checkout feature2
 // steps: add - commit - push
